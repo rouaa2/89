@@ -4,14 +4,14 @@
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f7f7f7;
+    background-color: #a7f7f7;
     overflow: hidden; /* 隱藏捲軸 */
     font-family: sans-serif;
 }
 
 #game-container {
     width: 900px;
-    height: 380px;
+    height: 390px;
     border: 1px solid #000;
     position: relative;
     overflow: hidden; /* 隱藏超出範圍的元素 */
